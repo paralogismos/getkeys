@@ -8,7 +8,7 @@
 # getkeys -o pubkeys.asc https://services.google.com/corporate/publickey.txt
 set -e
 
-gk_version=0.2.0
+gk_version=0.3.0
 
 usage() {
     printf "getkeys version %s\n" $gk_version
